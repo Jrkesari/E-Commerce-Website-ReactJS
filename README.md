@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+## Live Website
 
+You can review the live website at [https://e-commerce-website-react-js-six.vercel.app/](https://e-commerce-website-react-js-six.vercel.app/). This site is built entirely with React.js, Bootstrap, Framer Motion, and Font Awesome.
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +71,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Live Website
+
+You can review the live website at [https://e-commerce-website-react-js-six.vercel.app/](https://e-commerce-website-react-js-six.vercel.app/). This site is built entirely with React.js, Bootstrap, Framer Motion, and Font Awesome.
+
+## Installation
+
+To get started with this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-repo/e-commerce-website-react-js-six.git
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd e-commerce-website-react-js-six
+    ```
+
+3. **Install the dependencies:**
+
+    ```bash
+    npm install
+    ```
+
+4. **Run the development server:**
+
+    ```bash
+    npm start
+    ```
+
+5. **Open your browser and navigate to** [http://localhost:3000](http://localhost:3000) **to view the application.**
+
+Feel free to explore the code and customize it to suit your needs!
